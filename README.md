@@ -12,6 +12,8 @@ So that I can find a bookmark quickly
 ```
 ## Domain model
 
+<img width="887" alt="Screenshot 2020-11-16 at 21 24 51" src="https://user-images.githubusercontent.com/71889577/99310027-47aecf00-2852-11eb-80d0-e02bac440232.png">
+
 
 ### To set up the project
 Clone this repository and then run:

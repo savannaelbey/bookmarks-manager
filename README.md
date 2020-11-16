@@ -6,8 +6,9 @@ A bookmark manager is a website to maintain a collection of bookmarks (URLs). Yo
 
 ```
 As a student at Makers
-So that I can quickly find important resources
-I’d like to see a list of my bookmarked resources
+I’d like to see a list of my bookmarks
+So that I can find a bookmark quickly
+
 ```
 ## Domain model
 

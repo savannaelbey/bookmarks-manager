@@ -1,11 +1,12 @@
-
 require 'pg'
 
 feature 'viewing bookmarks' do
+  
   scenario 'visiting the index page' do
     visit ('/')
     expect(page).to have_content "Bookmarks Manager"
   end
+
   scenario 'seeing bookmarks list' do
     connection = PG.connect(dbname: 'bookmark_manager_test')
     # Add the test data

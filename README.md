@@ -9,6 +9,12 @@ As a student at Makers
 I’d like to see a list of my bookmarks
 So that I can find a bookmark quickly
 
+As a student at Makers
+I’d like to add new websites to my bookmark manager
+So I can easily access my frequently used websites
+
+
+
 ```
 ## Domain model
 
@@ -30,6 +36,14 @@ Clone this repository and then run:
  ```
 
  To set up the appropriate tables, connect to the database in `psql` and run the SQL scripts in the `db/migrations` folder in the given order.
+
+ ### To set up the test database
+
+ Connect to `psql` and create the `bookmark_manager_test` database:
+
+ ```
+ CREATE DATABASE bookmark_manager_test;
+ ```
 
  ### To run the Bookmark Manager app:
 

@@ -13,6 +13,9 @@ As a student at Makers
 I’d like to add new websites to my bookmark manager
 So I can easily access my frequently used websites
 
+As a student at makers
+I'd like to delete bookmarks from my bookmark manager
+so that I dont keep unwanted bookmarks.
 
 
 ```

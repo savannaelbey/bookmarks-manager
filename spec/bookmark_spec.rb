@@ -33,7 +33,7 @@ describe Bookmark do
   end
 
   describe '.delete' do
-    it 'deletes a bookmark' do
+    it 'deletes a given bookmark' do
       bookmark = Bookmark.create(url: 'http:www.facebook.com', title: 'Facebook')
       expect { Bookmark.delete(id: bookmark.id) }.to change {Bookmark.all.count}.by(-1)
     end

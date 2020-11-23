@@ -17,6 +17,10 @@ As a student at makers
 I'd like to delete bookmarks from my bookmark manager
 so that I dont keep unwanted bookmarks.
 
+As a student at makers
+I'd like to update my bookmarks
+So I can change the URL or title of my bookmark.
+
 
 ```
 ## Domain model
